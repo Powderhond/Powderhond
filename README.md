@@ -1,6 +1,6 @@
 # Hey, I'm Dan 👋🏔️
 
-> Part founder, part ops nerd, part mountain goat. Currently shipping code from Kelowna, BC, somewhere between a trailhead and a terminal.
+> Part founder, part ops nerd, part mountain goat. Currently shipping code from Kelowna, BC, somewhere between a trailhead and a coffee shop.
 
 ```ts
 const dan = {
