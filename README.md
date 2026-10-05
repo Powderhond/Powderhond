@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hey, I'm Dan 👋🏔️
 
-<!--
-**Powderhond/Powderhond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Part founder, part ops nerd, part mountain goat. Currently shipping code from Kelowna, BC, somewhere between a trailhead and a terminal.
 
-Here are some ideas to get you started:
+```ts
+const dan = {
+  location: "Kelowna, BC 🇨🇦",
+  building: "4Planet 🌍",
+  writingCodeSince: 2019,
+  education: "B.Mgmt + Computer Science minor",
+  currentlyLearning: ["product management", "how to say no to new side projects"],
+  fuel: ["coffee", "trail snacks", "an unreasonable number of browser tabs"],
+  status: "probably debugging, possibly on a rock face",
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 What I'm building
+
+**[4Planet](https://4planet.io)** connects consumer brands with vetted conservation organizations, so every purchase can turn into real, trackable impact (with CRA-compliant tax receipts handled automatically, because nobody wants to do that by hand).
+
+Solo-founded, Canadian-built, powered by stubbornness and Supabase.
+
+## 🛠️ My usual toolkit
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat&logo=cloudflare&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+
+Lean infra, fast iteration, and a firm belief that the best server is the one you don't have to babysit.
+
+## 🧗 Résumé speed run
+
+- 🇩🇪 Co-founded a logistics startup in **Berlin** during my second year of uni (and wrote scrapers to onboard retailer product pages)
+- 🪵 Did web + marketing at a woodworking shop: launched **16 products** and took them omnichannel on Amazon, Etsy and Google Merchant
+- 🏭 Ran operations as a **Director of Operations**, where I learned that SOPs are just code for humans
+- 🌲 Now building **4Planet** and drifting happily toward **product management**
+
+## 🏔️ When I'm not at a keyboard
+
+I'm a **guide** (backcountry ski touring and rock climbing), and otherwise you'll find me:
+
+| Activity | Threat level |
+| --- | --- |
+| 🏃 Trail running & road marathons | Moderate (to my knees) |
+| 🧗 Climbing | High (to my fingertips) |
+| 🚵 Mountain biking | Extreme (to my wallet) |
+| 🎒 Backpacking | Low, unless I forget the fuel canister |
+| 🪙 Gold panning | Zero, but the dream is alive |
+| 🔩 Building my own climbing gear | Ask me again after testing |
+
+## 🤓 Fun facts
+
+- I have more side projects than unread notifications, and that's saying something
+- I think in systems: warehouses, databases, and multi-day trip meal plans all get the same treatment
+- My commit messages get more poetic the further I am from sea level
+
+## 📫 Say hi
+
+- 🌐 [4planet.io](https://4planet.io)
+- ✉️ danielcoward99@gmail.com
+
+<p align="center"><i>"Leave the trail (and the codebase) better than you found it."</i> 🌲</p>
