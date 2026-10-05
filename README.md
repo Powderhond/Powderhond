@@ -63,5 +63,6 @@ I'm a **guide** (freeride skiing), and otherwise you'll find me:
 
 - 🌐 [4planet.io](https://4planet.io)
 - ✉️ dan@4planet.io
+- https://www.linkedin.com/in/daniel-coward-28724917a
 
 <p align="center"><i>"Leave the trail (and the codebase) better than you found it."</i> 🌲</p>
