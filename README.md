@@ -7,7 +7,7 @@ const dan = {
   location: "Kelowna, BC 🇨🇦",
   building: "4Planet 🌍",
   writingCodeSince: 2019,
-  education: "B.Mgmt + Computer Science minor",
+  education: "B.Mgmt + Computer Science focus",
   currentlyLearning: ["product management", "how to say no to new side projects"],
   fuel: ["coffee", "trail snacks", "an unreasonable number of browser tabs"],
   status: "probably debugging, possibly on a rock face",
