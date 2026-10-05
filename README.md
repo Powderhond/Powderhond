@@ -48,7 +48,6 @@ I'm a **guide** (freeride skiing), and otherwise you'll find me:
 | --- | --- |
 | 🏃 Trail running & road marathons | Moderate (to my knees) |
 | 🧗 Climbing | High (to my fingertips) |
-| 🚵 Mountain biking | Extreme (to my wallet) |
 | 🎒 Backpacking | Low, unless I forget the fuel canister |
 | 🪙 Gold panning | Zero, but the dream is alive |
 | 🔩 Building my own climbing gear | Ask me again after testing |
