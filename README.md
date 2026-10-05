@@ -42,7 +42,7 @@ Lean infra, fast iteration, and a firm belief that the best server is the one yo
 
 ## 🏔️ When I'm not at a keyboard
 
-I'm a **guide** (backcountry ski touring and rock climbing), and otherwise you'll find me:
+I'm a **guide** (freeride skiing), and otherwise you'll find me:
 
 | Activity | Threat level |
 | --- | --- |
