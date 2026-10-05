@@ -16,7 +16,7 @@ const dan = {
 
 ## 🌍 What I'm building
 
-**[4Planet](https://4planet.io)** connects consumer brands with vetted conservation organizations, so every purchase can turn into real, trackable impact (with CRA-compliant tax receipts handled automatically, because nobody wants to do that by hand).
+**[4Planet](https://4planet.io)** connects consumer brands with vetted conservation organizations, so every purchase can turn into real trackable impact.
 
 Solo-founded, Canadian-built, powered by stubbornness and Supabase.
 
